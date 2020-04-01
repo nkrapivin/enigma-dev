@@ -36,6 +36,18 @@ enum {
   os_winphone = 7,
   os_tizen = 8,
   os_win8native = 9,
+  os_wiiu = 10,
+  os_3ds = 11,
+  os_psvita = 12,
+  os_bb10 = 13,
+  os_ps4 = 14,
+  os_xboxone = 15,
+  os_ps3 = 16,
+  os_xbox360 = 17,
+  os_uwp = 18,
+  os_amazon = 19, // like Android but not quite.
+  os_tvos = 20, // Apple tvOS.
+  os_switch = 21,
 };
 
 enum {
